@@ -42,3 +42,4 @@ Result: High Risk (AI detects "Gambling/Speculation" behavior).
 **Acknowledgements**
 Built for PEKOM CODE FEST 2024.
 Track: 2 (LLM-Based Risk Assessment)
+Live url: https://pekomcodefestxenber.netlify.app/
